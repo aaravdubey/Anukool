@@ -1,0 +1,418 @@
+[
+  {
+    "question": "How happy, satisfied, or pleased have you been with your personal life during the past month?",
+    "options": [
+      { "option": "Extremely happy, could not have been more satisfied or pleased", "score": 6 },
+      { "option": "Very happy most of the time", "score": 5 },
+      { "option": "Generally satisfied, pleased", "score": 4 },
+      { "option": "Sometimes fairly satisfied, sometimes fairly unhappy", "score": 3 },
+      { "option": "Generally dissatisfied, unhappy", "score": 2 },
+      { "option": "Very dissatisfied, unhappy most of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time have you felt lonely during the past month?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "How often did you become nervous or jumpy when faced with excitement or unexpected situations during the past month?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Very often", "score": 2 },
+      { "option": "Fairly often", "score": 3 },
+      { "option": "Sometimes", "score": 4 },
+      { "option": "Almost never", "score": 5 },
+      { "option": "Never", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you felt that the future looks hopeful and promising?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, has your daily life been full of things that were interesting to you?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, did you feel relaxed and free from tension?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you generally enjoyed the things you do?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, have you had any reason to wonder if you were losing your mind, or losing control over the way you act, talk, think, feel, or of your memory?",
+    "options": [
+      { "option": "No, not at all", "score": 6 },
+      { "option": "Maybe a little", "score": 5 },
+      { "option": "Yes, but not enough to be concerned or worried about", "score": 4 },
+      { "option": "Yes, and I have been a little concerned", "score": 3 },
+      { "option": "Yes, and I am quite concerned", "score": 2 },
+      { "option": "Yes, I am very much concerned about it", "score": 1 }
+    ]
+  },
+  {
+    "question": "Did you feel depressed during the past month?",
+    "options": [
+      { "option": "Yes, to the point that I did not care about anything for days at a time", "score": 1 },
+      { "option": "Yes, very depressed almost every day", "score": 2 },
+      { "option": "Yes, quite depressed several times", "score": 3 },
+      { "option": "Yes, a little depressed now and then", "score": 4 },
+      { "option": "No, never felt depressed at all", "score": 5 }
+    ]
+  },
+  
+  {
+    "question": "During the past month, how much of the time have you felt loved and wanted?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, have you been a very nervous person?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "When you have got up in the morning, this past month, about how often did you expect to have an interesting day?",
+    "options": [
+      { "option": "Always", "score": 6 },
+      { "option": "Nearly always", "score": 5 },
+      { "option": "Quite often", "score": 4 },
+      { "option": "Sometimes", "score": 3 },
+      { "option": "Seldom", "score": 2 },
+      { "option": "Never", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you felt tense or “high-strung”?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, have you been in firm control of your behaviour, thoughts, emotions or feelings?",
+    "options": [
+      { "option": "Yes, very definitely", "score": 6 },
+      { "option": "Yes, for the most part", "score": 5 },
+      { "option": "Yes, I guess so", "score": 4 },
+      { "option": "No, not too well", "score": 3 },
+      { "option": "No, and I am somewhat disturbed", "score": 2 },
+      { "option": "No, and I am very disturbed", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, how often did your hands shake when you tried to do something?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 4 },
+      { "option": "None of the time", "score": 5 }
+    ]
+  },
+  {
+    "question": "During the past month, how often did you feel that you had nothing to look forward to?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Very often", "score": 2 },
+      { "option": "Fairly often", "score": 3 },
+      { "option": "Sometimes", "score": 4 },
+      { "option": "Almost never", "score": 5 },
+      { "option": "Never", "score": 6 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, have you felt calm and peaceful?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, have you felt emotionally stable?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, have you felt downhearted and blue?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "How often have you felt like crying, during the past month?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how often have you felt that others would be better off if you were dead?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Sometimes", "score": 4 },
+      { "option": "Rarely", "score": 5 },
+      { "option": "Never", "score": 6 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, were you able to relax without difficulty?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time, during the past month, did you feel that your love relationships, loving and being loved, were full and complete?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How often, during the past month, did you feel that nothing turned out for you the way you wanted it to?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Sometimes", "score": 4 },
+      { "option": "Rarely", "score": 5 },
+      { "option": "Never", "score": 6 }
+    ]
+  },
+  {
+    "question": "How much have you been bothered by nervousness, or your “nerves”, during the past month?",
+    "options": [
+      { "option": "Extremely so, to the point where I could not take care of things", "score": 1 },
+      { "option": "Very much bothered", "score": 2 },
+      { "option": "Bothered quite a bit by nerves", "score": 3 },
+      { "option": "Bothered some, enough to notice", "score": 4 },
+      { "option": "Bothered just a little by nerves", "score": 5 },
+      { "option": "Not bothered at all by this", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time has living been a wonderful adventure for you?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How often, during the past month, have you felt so down in the dumps that nothing could cheer you up?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, did you think about taking your own life?",
+    "options": [
+      { "option": "Yes, very often", "score": 1 },
+      { "option": "Yes, fairly often", "score": 2 },
+      { "option": "Yes, a couple of times", "score": 3 },
+      { "option": "Yes, at one time", "score": 4 },
+      { "option": "No, never", "score": 5 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you felt restless, fidgety, or impatient?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you been moody or brooded about things?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you felt cheerful, lighthearted?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, how often did you get rattled, upset or flustered?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, have you been anxious or worried?",
+    "options": [
+      { "option": "Yes, extremely to the point of being sick or almost sick", "score": 1 },
+      { "option": "Yes, very much so", "score": 2 },
+      { "option": "Yes, quite a bit", "score": 3 },
+      { "option": "Yes, some, enough to bother me", "score": 4 },
+      { "option": "Yes, a little bit", "score": 5 },
+      { "option": "No, not at all", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time were you a happy person?",
+    "options": [
+      { "option": "All of the time", "score": 6 },
+      { "option": "Most of the time", "score": 5 },
+      { "option": "A good bit of the time", "score": 4 },
+      { "option": "Some of the time", "score": 3 },
+      { "option": "A little of the time", "score": 2 },
+      { "option": "None of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How often during the past month did you find yourself trying to calm down?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "During the past month, how much of the time have you been in low or very low spirits?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "How often, during the past month, have you been waking up feeling fresh and rested?",
+    "options": [
+      { "option": "Always, every day", "score": 6 },
+      { "option": "Almost every day", "score": 5 },
+      { "option": "Most days", "score": 4 },
+      { "option": "Some days, but usually not", "score": 3 },
+      { "option": "Hardly ever", "score": 2 },
+      { "option": "Never wake up feeling rested", "score": 1 }
+    ]
+  },
+  {
+    "question": "During the past month, have you been under or felt you were under any strain, stress or pressure?",
+    "options": [
+      { "option": "Yes, almost more than I could stand or bear", "score": 1 },
+      { "option": "Yes, quite a bit of pressure", "score": 2 },
+      { "option": "Yes, some more than usual", "score": 3 },
+      { "option": "Yes, some, but about normal", "score": 4 },
+      { "option": "Yes, a little bit", "score": 5 },
+      { "option": "No, not at all", "score": 6 }
+    ]
+  }
+]

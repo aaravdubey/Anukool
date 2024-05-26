@@ -1,0 +1,35 @@
+[
+  {
+    "question": "How happy, satisfied, or pleased have you been with your personal life during the past month?",
+    "options": [
+      { "option": "Extremely happy, could not have been more satisfied or pleased", "score": 6 },
+      { "option": "Very happy most of the time", "score": 5 },
+      { "option": "Generally satisfied, pleased", "score": 4 },
+      { "option": "Sometimes fairly satisfied, sometimes fairly unhappy", "score": 3 },
+      { "option": "Generally dissatisfied, unhappy", "score": 2 },
+      { "option": "Very dissatisfied, unhappy most of the time", "score": 1 }
+    ]
+  },
+  {
+    "question": "How much of the time have you felt lonely during the past month?",
+    "options": [
+      { "option": "All of the time", "score": 1 },
+      { "option": "Most of the time", "score": 2 },
+      { "option": "A good bit of the time", "score": 3 },
+      { "option": "Some of the time", "score": 4 },
+      { "option": "A little of the time", "score": 5 },
+      { "option": "None of the time", "score": 6 }
+    ]
+  },
+  {
+    "question": "How often did you become nervous or jumpy when faced with excitement or unexpected situations during the past month?",
+    "options": [
+      { "option": "Always", "score": 1 },
+      { "option": "Very often", "score": 2 },
+      { "option": "Fairly often", "score": 3 },
+      { "option": "Sometimes", "score": 4 },
+      { "option": "Almost never", "score": 5 },
+      { "option": "Never", "score": 6 }
+    ]
+  }
+]
